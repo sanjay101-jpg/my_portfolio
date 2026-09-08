@@ -1,0 +1,45 @@
+SANJAY R
+Chennai, India | +91 9080605039 | ravisanjay995@gmail.com
+
+SUMMARY
+ECE undergraduate interested in Software Development, Web Development, IoT, and Automation, with knowledge of Java, SQL, and Data Structures & Algorithms. Strong problem-solving skills with a keen interest in building practical and efficient technology solutions.
+
+EDUCATION
+KCG College of Technology, Chennai
+B.E. Electronics and Communication Engineering | 2023 - 2027 | CGPA: 7.8
+
+EXPERIENCE
+QMAX Systems - Internship Training Program | July 2026
+- Gained hands-on experience in PCB and IC testing, troubleshooting, and repair techniques.
+- Performed electronic testing procedures to identify faults and verify PCB and IC functionality.
+- Developed practical knowledge of electronic components, circuit testing, fault identification, and repair processes.
+
+Deloitte Australia - Technology Virtual Experience Program (Forage) | June 2025
+- Gained exposure to real-world technology consulting scenarios and professional technology workflows.
+- Worked on problem-solving tasks involving business and technical decision-making.
+- Developed an understanding of client-focused solutions and technology consulting practices.
+
+PROJECTS
+IoT Based Smart Fence System | 2025
+Technologies: Embedded Systems, IoT, Sensors
+- Designed a low-cost IoT solution for detecting unauthorized usage and abnormal activity in electric fences.
+- Integrated voltage, current, PIR, vibration, and proximity sensors for real-time monitoring.
+- Developed a sensor-based monitoring approach to identify potential energy misuse and improve public safety.
+
+Digital Password Lock System using Verilog HDL | 2025
+Technologies: Verilog HDL, Xilinx Vivado, FSM
+- Designed and simulated an FSM-based digital password lock using Verilog HDL.
+- Implemented password verification, unlock control, and alarm generation for incorrect password inputs.
+- Verified system functionality through behavioral simulation and waveform analysis using Xilinx Vivado.
+
+CERTIFICATIONS
+- Internship Training Program - QMAX Systems (July 2026)
+- Introduction to Internet of Things - NPTEL (Elite + Gold)
+- Deloitte Technology Consulting Simulation - Forage
+
+TECHNICAL SKILLS
+Programming Languages: Java, C
+Core Concepts: Data Structures & Algorithms, Object-Oriented Programming
+Database: SQL
+Web Development: HTML, CSS, JavaScript
+Tools: GitHub, Xilinx Vivado, MATLAB, Flutter, Blender
